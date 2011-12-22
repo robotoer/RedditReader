@@ -3,6 +3,7 @@
 	<name>com.robotoer.redditreader</name>
 	<comment></comment>
 	<projects>
+		<project>com.robotoer.jreddit</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
